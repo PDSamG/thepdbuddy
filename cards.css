@@ -51,7 +51,7 @@ body{
 }
 
 .container .card:hover .box .icon{
-    width: 100%;
+    /* width: 100%; */
 }
 
 .container .card .box .icon::before{
